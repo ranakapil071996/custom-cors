@@ -1,1 +1,1 @@
-web:node ./node_modules/cors-anywhere/server.js
+web:node index.js
